@@ -21,6 +21,9 @@ public class Test {
         }*/
         Byte byte1 = new Byte((byte) 1);
         System.out.println(byte1.toString());
+        
+        
+        
         int a = 2;
         if(a==2){
             System.out.println("111");
