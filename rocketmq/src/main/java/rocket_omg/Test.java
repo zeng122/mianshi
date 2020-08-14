@@ -25,6 +25,9 @@ public class Test {
         if(a==2){
             System.out.println("111");
             a = 3;
+
+
+
         }else if(a == 3){
             System.out.println("222");
         }
