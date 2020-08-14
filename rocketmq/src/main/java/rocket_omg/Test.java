@@ -26,8 +26,7 @@ public class Test {
             System.out.println("111");
             a = 3;
 
-
-
+            System.out.println("dsadsa");
         }else if(a == 3){
             System.out.println("222");
         }
